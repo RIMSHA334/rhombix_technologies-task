@@ -1,2 +1,1 @@
-# rhombix-technologies_task
-# rhombix-technologies_task
+# RhombixTechnologies_task
